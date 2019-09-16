@@ -32,7 +32,7 @@
 //! }
 //!
 //! // Which allows us to attach the path of an I/O error and convert
-//! // the errory into our custom error type in an ergonomic fashion:
+//! // the error into our custom error type in an ergonomic fashion:
 //! fn main() -> Result<(), Error> {
 //!     fs::read_to_string("foo/bar").err_with("foo/bar")?;
 //!     Ok(())
