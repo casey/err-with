@@ -1,6 +1,6 @@
 [package]
 name        = "err-with"
-version     = "0.1.0"
+version     = "0.1.1"
 description = "🤔 Trait for adding context to errors"
 authors     = ["Casey Rodarmor <casey@rodarmor.com>"]
 license     = "CC0-1.0"
